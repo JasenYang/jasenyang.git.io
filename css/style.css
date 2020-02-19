@@ -433,6 +433,10 @@ header {
 .banner-text-w3ls {
     padding: 8em 4em 4em 4em;
 }
+.banner-text-w3ls-self {
+    padding: 2em 4em 2em 2em;
+}
+
 .banner-text-w3ls h2 {
     color: #787878;
     font-size: 2em;
