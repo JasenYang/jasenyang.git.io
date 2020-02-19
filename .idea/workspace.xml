@@ -2,17 +2,12 @@
 <project version="4">
   <component name="ChangeListManager">
     <list default="true" id="54b6dfb2-a44c-4292-8904-ab09154083da" name="Default Changelist" comment="">
-      <change afterPath="$PROJECT_DIR$/images/2017年全国大数据建模总决赛特等奖.png" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/images/2017年全国移动互联创新大赛三等奖.png" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/images/2018亚太数学建模三等奖.png" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/images/2018年MathorCup高校数学建模挑战赛.png" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/images/2018美赛H级.png" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/images/小美赛数学建模一等奖.png" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/images/招商银行精英团队证书.jpg" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/images/招行.jpg" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/images/软件著作权证明文件.jpg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/images/2018年全国高校大数据创新大赛第二名.jpg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/images/2018年计算机设计大赛第二名.jpg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/images/国家励志奖学金.jpg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/images/学习奖学金.jpg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/images/科技创新奖学金.jpg" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/css/style.css" beforeDir="false" afterPath="$PROJECT_DIR$/css/style.css" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/index.html" beforeDir="false" afterPath="$PROJECT_DIR$/index.html" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
@@ -51,7 +46,7 @@
       <option name="presentableId" value="Default" />
       <updated>1582099811414</updated>
       <workItem from="1582099813824" duration="5552000" />
-      <workItem from="1582111285531" duration="8785000" />
+      <workItem from="1582111285531" duration="10771000" />
     </task>
     <servers />
   </component>
